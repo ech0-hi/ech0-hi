@@ -1,16 +1,37 @@
-## Hi there 👋
+hi, i'm ech0!
 
-<!--
-**ech0-hi/ech0-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+your average c++ enjoyer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##about me
+- learning C++ and cybersecurity
+- interested in ethical hacking and system security
+- building projects on GitHub
+
+---
+
+##skills
+- c++
+- using linux comfortably
+- basic security knowledge
+
+---
+
+##projects
+- versha password checker (c++)
+  - detects weak passwords
+  - checks common password usage
+
+---
+
+##goals
+- connect with people
+- build security tools
+- contribute to open source security projects
+
+---
+
+##contact
+- gitHub: https://github.com/ech0-hi
+- mail:  echohi@duck.com
