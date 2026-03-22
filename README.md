@@ -18,8 +18,8 @@
 
 # projects
 - [versha password checker (c++)](https://github.com/ech0-hi/versha_password_checker)
-  - detects weak passwords
-  - checks common password usage
+    - detects weak passwords
+    - checks common password usage
 
 ---
 
