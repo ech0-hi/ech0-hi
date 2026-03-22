@@ -1,37 +1,35 @@
 hi, i'm ech0!
 
-your average c++ enjoyer
-
 ---
 
-##about me
+# about me
 - learning C++ and cybersecurity
 - interested in ethical hacking and system security
 - building projects on GitHub
 
 ---
 
-##skills
+# skills
 - c++
 - using linux comfortably
 - basic security knowledge
 
 ---
 
-##projects
+# projects
 - versha password checker (c++)
   - detects weak passwords
   - checks common password usage
 
 ---
 
-##goals
+# goals
 - connect with people
 - build security tools
 - contribute to open source security projects
 
 ---
 
-##contact
+# contact
 - gitHub: https://github.com/ech0-hi
 - mail:  echohi@duck.com
