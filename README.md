@@ -31,5 +31,4 @@
 ---
 
 # contact
-- gitHub: https://github.com/ech0-hi
 - mail:  echohi@duck.com
